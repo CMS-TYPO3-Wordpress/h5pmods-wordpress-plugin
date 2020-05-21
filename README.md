@@ -10,15 +10,20 @@ own custom modifications to H5P.
 You should be aware that the hooks you add on your site will not follow
 the content if it's exported.
 
-## All Gitlab Repos 
-* [artefact_rub_de_redaktion](https://git.noc.ruhr-uni-bochum.de/artefact-kgi/artefact_rub_de_redaktion/-/issues)
+## Issues
 * [artefact_rub_de](https://git.noc.ruhr-uni-bochum.de/artefact-kgi/artefact_rub_de/-/issues)
-* [twentytwenty-child](https://git.noc.ruhr-uni-bochum.de/artefact-kgi/artefact_rub_de/-/issues)
-* [h5pmods-wordpress-plugin](https://git.noc.ruhr-uni-bochum.de/artefact-kgi/h5pmods-wordpress-plugin/-/issues)
 
-## Live-System
-* [https://artefact.ruhr-uni-bochum.de](https://artefact.ruhr-uni-bochum.de/)
+## Moodle
 * [Moodle: ArtEfact (040627-WiSe16/17)](https://moodle.ruhr-uni-bochum.de/m/course/view.php?id=7168)
+
+## Deployment
+
+### Live-System
+* [https://artefact.ruhr-uni-bochum.de](https://artefact.ruhr-uni-bochum.de/)
+### Staging-System
+* [https://artefact.ruhr-uni-bochum.de/qa](https://artefact.ruhr-uni-bochum.de/qa/)
+### Live-System
+* [https://localhost/](https://localhost/)
 
 ## Features
 
@@ -54,6 +59,12 @@ the content if it's exported.
 * 0.0.10 Release Aug 16, 2020–Aug 31, 2020
 * 0.0.11 Release Sep 1, 2020–Sep 15, 2020
 * 0.0.12 Release Sep 16, 2020–Sep 30, 2020
+
+## Other Gitlab Repos 
+* [artefact_rub_de_redaktion](https://git.noc.ruhr-uni-bochum.de/artefact-kgi/artefact_rub_de_redaktion/-/issues)
+* [artefact_rub_de_localdev](https://git.noc.ruhr-uni-bochum.de/artefact-kgi/artefact_rub_de_localdev/-/issues)
+* [twentytwenty-child](https://git.noc.ruhr-uni-bochum.de/artefact-kgi/twentytwenty-child/-/issues)
+* [h5pmods-wordpress-plugin](https://git.noc.ruhr-uni-bochum.de/artefact-kgi/h5pmods-wordpress-plugin/-/issues)
 
 
 ## License
